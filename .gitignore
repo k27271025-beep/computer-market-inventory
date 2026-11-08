@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+packages/
+TestResults/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+# Базы данных
+*.mdf
+*.ldf
